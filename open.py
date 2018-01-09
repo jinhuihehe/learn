@@ -5,7 +5,7 @@ dr=webdriver.Chrome()
 print 'open chrome'
 time.sleep(2)
 
-dr.maximize_window()
+#dr.maximize_window()
 
 time.sleep(2)
 dr.quit()
